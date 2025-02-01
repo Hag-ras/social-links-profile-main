@@ -9,13 +9,14 @@ body{
     background-color: #040404;
     display:flex;
     justify-content: center;
-    align-items: center;
+    align-items: flex-end;
 
 }
 .Container{
     width: 400px;
     height: 650px;
-    background-color: #060606;
+    margin-top: 100px;
+    background-color: #090909;
     display: flex;
     flex-direction: column;
     gap:10px;
